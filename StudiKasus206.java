@@ -63,5 +63,6 @@ public class StudiKasus206 {
     }else{ 
         System.out.println("Jenis Kegiatan Tidak Memperoleh Dana Penghargaan.");   
         }
-}
+sc.close();
+    }
 }
